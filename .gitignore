@@ -7,3 +7,5 @@
 .vscode/launch.json
 /serviceDefinitions/sddraftToolboxes/*.tbx
 gridsight/.idea/
+node_modules/
+esri/
